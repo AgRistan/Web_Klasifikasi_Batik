@@ -1,0 +1,96 @@
+{
+  "intents": [
+    {"tag": "salam_atau_menyapa",
+     "patterns": ["Ada orang disana?", "Hai", "Hello"],
+     "responses": ["Ya, bagaimana saya membantumu?", "Hallo", "Hai"]
+    },
+    {"tag": "salam_penutup",
+     "patterns": ["Sampai jumpa nanti", "Selamat Tinggal", "Sampai jumpa"],
+     "responses": ["Sampai jumpa!", "Semoga harimu menyenangkan", "Sampai jumpa lagi!"]
+    },
+    {"tag": "ucapan_terima_kasih",
+     "patterns": ["terima kasih", "sangat membantu", "terima kasih sudah membantu"],
+     "responses": ["aku senang membantumu!", "kapan saja!", "sama sama"]
+    },
+    {"tag": "tidak_menjawab",
+     "patterns": [],
+     "responses": ["Maaf saya tidak mengerti maksud anda", "Tolong beri saya informasi lebih banyak", "Saya tidak yakin untuk mengerti", "Saya masih disini"]
+     },
+     {"tag": "asal_batik_ciamis",
+       "patterns": ["Dari mana asal batik Ciamis?"],
+       "responses": ["Batik Garutan berasal dari Ciamis, Jawa Barat."]
+      },
+     {"tag": "sejarah_batik_ciamis",
+      "patterns": ["Bagaimana sejarah batik Ciamis?"],
+      "responses": ["Tradisi membatik di Ciamis tumbuh dan berkembang diperkirakan pada abad ke-19. setelah berakhirnya perang Jawa (Perang Diponegoro). Para pengikut Pangeran Diponegoro banyak yang meninggalkan Yogyakarta dan menuju ke arah selatan. Sebagian ada yang menetap di Banyumas, ada juga yang meneruskan perjalanan dan menetap di Ciamis."]
+      },
+      {"tag": "asal_batik_garutan",
+       "patterns": ["Dari mana asal batik Garutan?"],
+       "responses": ["Batik Garutan berasal dari Garut, Jawa Barat."]
+      },
+     {"tag": "sejarah_batik_garutan",
+      "patterns": ["Bagaimana sejarah batik Garutan?"],
+      "responses": ["Berasal dari warisan nenek moyang yang berlangsung secara turun-temurun dan telah berkembang cukup lama sebelum masa kemerdekaan Indonesia. Hingga tahun 1945, batik Garut semakin populer dengan sebutan batik tulis Garutan yang mengalami masa kejayaan antara tahun 1967 sampai 1985."]
+      },
+      {"tag": "sejarah_batik_megamendung",
+       "patterns": ["Bagaimana sejarah batik Mega Mendung?"],
+       "responses": ["Berawal dari kedatangan bangsa Cina ke Cirebon. Diceritakan, Sunan Gunung Jati juga menikahi seorang putri dari Tiongkok bernama Putri Ong Tien. Kedatangan Cina turut menambah wawasan masyarakat pribumi, serta menularkan berbagai kesenian dari negeri Tiongkok tersebut. Mulai dari pembuatan piring, porselen, keramik, hingga pembuatan motif kain sutra dari zaman Dinasti Ming dan Ching."
+       ]
+      },
+      {"tag": "asal_batik_megamendung",
+       "patterns": ["Dari mana asal batik Mega Mendung?"],
+       "responses": ["Batik Mega Mendung berasal dari Cirebon, Jawa Barat."
+       ]
+      },
+      {"tag": "asal_batik_priangan",
+       "patterns": ["Dari mana asal batik Priangan?"],
+       "responses": ["Berasal dari Tasikmalaya, Jawa Barat."
+       ]
+      },
+      {"tag": "sejarah_batik_priangan",
+       "patterns": ["Bagaimana sejarah batik Priangan?"],
+       "responses": ["Batik tulisan mulai dikenal oleh masyarakat Tasikmalaya pada masa Kerajaan Tarumanegara. Hal tersebut diperkuat dengan jumlah populasi pohon tarum yang cukup banyak guna pembuatan batik pada masa itu. Wilayah Mangunreja, Sukapura, Maronjaya, Wurug, dan Tasikmalaya Kota terdapat jejak sejarah batik tasikmalaya karena memang merupakan area pemerintahan tarumanegara yang berpusat di Sukapura yang berada di pinggiran kota Tasikmalaya."
+       ]
+      },
+      {"tag": "asal_batik_lasem",
+       "patterns": ["Dari mana asal batik Lasem?"],
+       "responses": ["Berasal dari Lasem, Kabupaten Rembang, Jawa Tengah."
+       ]
+      },
+      {"tag": "sejarah_batik_lasem",
+       "patterns": ["Dari mana asal batik Lasem?"],
+       "responses": ["Perkembangan batik di Lasem, konon dimulai sejak masa Na Li Ni atau Putri Campa istri Bi Nang Un, seorang anggota ekspedisi Cheng He (1405-1433) yang memperkenalkan teknik membatik pada abad ke-15. Masa keemasan perusahaan batik yang dibangun oleh orang-orang Tionghoa Lasem dimulai sekitar 1860-an. Perusahaan batik saat itu merupakan usaha yang paling menguntungkan setelah perdagangan."
+       ]
+      },
+      {"tag": "asal_batik_pekalongan",
+       "patterns": ["Dari mana asal batik Pekalongan?"],
+       "responses": ["Berasal dari Pekalongan, Jawa Tengah."
+       ]
+      },
+      {"tag": "sejarah_batik_pekalongan",
+       "patterns": ["Bagaimana sejarah batik  Pekalongan?"],
+       "responses": ["Diperkirakan muncul tahun 1800-an dan mengalami perkembangan pesat setelah Perang Jawa atau Perang Diponegoro. Perang memaksa keluarga keraton berserta pengikut-pengikutnya meninggalkan lingkungan kerajaan dan menyebar ke daerah-daerah di sebelah timur dan barat. Mereka ikut mengembangkan batik yang sebelumnya sudah ada di Pekalongan."
+       ]
+      },
+      {"tag": "asal_batik_parang",
+       "patterns": ["Dari mana asal batik Parang?"],
+       "responses": ["Berasal dari dari Jawa, khususnya Daerah Istimewa Yogyakarta dan Solo."
+       ]
+      },
+      {"tag": "sejarah_batik_parang",
+       "patterns": ["Bagaimana sejarah batik Parang?"],
+       "responses": ["Batik ini dibuat oleh para pengrajin batik di daerah tersebut dan mulai populer pada abad ke-19. Perkembangan batik parang dari masa ke masa cukup signifikan. Pada awalnya, batik parang hanya digunakan oleh keluarga kerajaan dan masyarakat yang berada di kalangan atas saja. Namun, seiring berjalannya waktu, batik parang mulai dikenal oleh masyarakat luas dan mulai digunakan dalam berbagai acara, baik acara resmi maupun acara keluarga."
+       ]
+      },
+      {"tag": "asal_batik_sogan",
+       "patterns": ["Dari mana asal batik Sogan?"],
+       "responses": ["Berasal dari daerah Yogyakarta dan Solo, Jawa Tengah."
+       ]
+      },
+      {"tag": "sejarah_batik_sogan",
+       "patterns": ["Bagaimana sejarah batik Sogan?"],
+       "responses": ["Pada awalnya, proses pewarnaan batik Sogan menggunakan pewarna alami yang diekstraksi dari batang kayu pohon soga. Batang pohon soga sendiri berwarna coklat kekuningan."
+       ]
+      }
+  ]
+}

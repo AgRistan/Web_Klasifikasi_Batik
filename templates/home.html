@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+
+<div class="container">
+  <head>
+    <link href="{{ url_for("static", filename="css/main.css") }}" rel="stylesheet">
+  </head>
+      <div class="px-4 py-5 my-5 text-center">
+          <img class="d-block mx-auto mb-4" src="https://png.pngtree.com/background/20221120/original/pngtree-colorful-batik-pattern-background-picture-image_1964691.jpg" alt="" width="430">
+          <h1 class="display-5 fw-bold">Aplikasi klasifikasi Motif Batik menggunakan Machine Learning</h1>
+          <div class="col-lg-6 mx-auto">
+            <h4 style="margin-bottom: 20px;">
+                CNN (Convulutional Neural Network)
+            </h4>
+            <div class="d-grid d-sm-flex justify-content-sm-center">
+              <a href="{{ BASE_URL }}/klasifikasi" class="btn btn-warning btn-lg px-4 gap-3">start</a>
+            </div>
+          </div>
+        </div>
+  </div>
+{% endblock contents %}
