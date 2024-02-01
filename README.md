@@ -48,3 +48,4 @@
 - Harap gunakan aplikasi ini untuk tujuan akademik, bukan komersial<br/>
 - Jika ada pertanyaan seputar project ini, dapat bertanya di email : <code>alditha.forum@gmail.com</code># Web_Klasifikasi_Batik
 # Web_Klasifikasi_Batik
+# Web_Klasifikasi_Batik
