@@ -7,4 +7,3 @@
 - Tensorflow (Machine Learning Framework)
 Web_Klasifikasi_Batik
 # Web_Klasifikasi_Batik
-# Web_Klasifikasi_Batik
